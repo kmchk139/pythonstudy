@@ -1,1 +1,4 @@
 学习使用python的print语法。
+修改前要改变一下换行模式为soft wrap，可以切换为no wrap
+试试效果
+
